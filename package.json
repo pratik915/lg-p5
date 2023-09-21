@@ -1,5 +1,5 @@
 {
-  "name": "lg-p5",
+  "name": "lgsi-p5",
   "version": "1.0.0",
   "description": "Vue component wrapper for p5.js",
   "main": "dist/lg-p5.js",
@@ -19,13 +19,13 @@
     "postcss": "^7.0.27",
     "rollup": "^1.32.1",
     "rollup-plugin-vue": "^5.1.6",
-    "vue": "^2.6.11",
+    "vue": "^3.0.0",
     "vue-template-compiler": "^2.6.11"
   },
   "peerDependencies": {
-    "vue": "^2.6.11"
+    "vue": "^3.0.0"
   },
   "dependencies": {
-    "p5": "^1.0.0"
+    "p5": "^1.6.0"
   }
 }
